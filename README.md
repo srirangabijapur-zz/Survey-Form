@@ -1,2 +1,2 @@
 # Survey-Form
-A Simple Survey Form created using HTML, CSS and JavaScript
+A Survey form created using HTML, CSS and JavaScript
